@@ -1,1 +1,1 @@
-# Word-Embedding-and-Search-Query-NLP
+# Word Embedding and Search Query in NLP
